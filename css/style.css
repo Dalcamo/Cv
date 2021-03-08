@@ -21,7 +21,7 @@ h1 {
   line-height: 2;
 }
 body {
-  margin: 0;
+  margin: 0 auto 0 auto;
   font-family: "Raleway", sans-serif;
   text-align: center;
   font-weight: 600;
@@ -37,7 +37,7 @@ h2 {
 }
 h3 {
   font-family: "Montserrat Alternates", sans-serif;
-  color: #1687a7;
+  color: #121d27;
 }
 
 .top-container {
@@ -49,7 +49,7 @@ h3 {
 
 .bottom-container {
   padding-top: 20px;
-  background-color:#1687a7;
+  background-color:#121d27;
   padding: 20px;
   color: azure;
   
